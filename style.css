@@ -1,0 +1,23 @@
+body {color:blue;
+ font-size: 16pt;
+ font-family: Veranda;
+ 
+}
+p.text {background-color:white;
+border: 2px solid black;
+padding-right: 30px;
+padding-left: 80px;
+padding-top: 50px;
+padding-bottom: 50px;}
+
+h2{font-family:Arial; font-weight:bold;text-align:center;}
+
+div {background-color:white;
+border: 2px solid black;
+padding-right: 30px;
+padding-left: 80px;
+padding-top: 50px;
+padding-bottom: 50px;}
+
+
+
